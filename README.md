@@ -34,6 +34,10 @@ vsce package
   
 ## Release Notes
 
+### 0.0.2
+
+Terminal is disabled by default.
+
 ### 0.0.1
 
 Initial release of bb-initial-helper

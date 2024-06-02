@@ -4,7 +4,7 @@
   "license": "UNLICENSED",
   "displayName": "BB VSCode Lab Initial Helper",
   "description": "This is a helper extension for BB-labs to set default settings on environments.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
 	"type": "git",
 	"url": "https://github.com/Bulut-Bilisimciler/vscode-bb-lab-init-helpers.git"
